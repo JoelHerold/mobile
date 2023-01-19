@@ -1,5 +1,5 @@
 const staticDevCoffee = "dev-coffee-site-v1";
-const count = 2
+const count = 3
 
 const assets = [
 
